@@ -1,0 +1,673 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<vivino-product-list xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+	<product>
+		<product-name>Mullineux Schist Syrah 2017</product-name>
+		<price>100</price>
+		<quantity-is-minimum>false</quantity-is-minimum>
+		<bottle_size>750 ml</bottle_size>
+		<bottle_quantity>1</bottle_quantity>
+		<link>https://goodhope.fr/collections/mullineux-family-wines/products/mullineux-schist-syrah-2017</link>
+		<inventory-count>6</inventory-count>
+		<product-id>2021-01-001</product-id>
+	</product>
+	<product>
+		<product-name>Mullineux Granite Syrah 2017</product-name>
+		<price>100</price>
+		<quantity-is-minimum>false</quantity-is-minimum>
+		<bottle_size>750 ml</bottle_size>
+		<bottle_quantity>1</bottle_quantity>
+		<link>https://goodhope.fr/collections/mullineux-family-wines/products/mullineux-granite-syrah-2017</link>
+		<inventory-count>6</inventory-count>
+		<product-id>2021-01-002</product-id>
+	</product>
+	<product>
+		<product-name>Mullineux Granite Chenin Blanc 2018</product-name>
+		<price>65</price>
+		<quantity-is-minimum>false</quantity-is-minimum>
+		<bottle_size>750 ml</bottle_size>
+		<bottle_quantity>1</bottle_quantity>
+		<link>https://goodhope.fr/collections/mullineux-family-wines/products/mullineux-granite-chenin-2018</link>
+		<inventory-count>6</inventory-count>
+		<product-id>2021-01-003</product-id>
+	</product>
+	<product>
+		<product-name>Mullineux Syrah 2017</product-name>
+		<price>32</price>
+		<quantity-is-minimum>false</quantity-is-minimum>
+		<bottle_size>750 ml</bottle_size>
+		<bottle_quantity>1</bottle_quantity>
+		<link>https://goodhope.fr/collections/mullineux-family-wines/products/mullineux-syrah-2017</link>
+		<inventory-count>58</inventory-count>
+		<product-id>2021-01-004</product-id>
+	</product>
+	<product>
+		<product-name>Mullineux Old Vines White 2019</product-name>
+		<price>26</price>
+		<quantity-is-minimum>false</quantity-is-minimum>
+		<bottle_size>750 ml</bottle_size>
+		<bottle_quantity>1</bottle_quantity>
+		<link>https://goodhope.fr/collections/mullineux-family-wines/products/mullineux-old-vines-white-2019</link>
+		<inventory-count>4</inventory-count>
+		<product-id>2021-01-005</product-id>
+	</product>
+	<product>
+		<product-name>Mullineux Kloof Street Swartland Rouge 2018</product-name>
+		<price>16</price>
+		<quantity-is-minimum>false</quantity-is-minimum>
+		<bottle_size>750 ml</bottle_size>
+		<bottle_quantity>1</bottle_quantity>
+		<link>https://goodhope.fr/collections/mullineux-family-wines/products/mullineux-kloof-street-rouge-2018</link>
+		<inventory-count>51</inventory-count>
+		<product-id>2021-01-006</product-id>
+	</product>
+	<product>
+		<product-name>Mullineux Kloof Street Old Vine Chenin Blanc 2020</product-name>
+		<price>16</price>
+		<quantity-is-minimum>false</quantity-is-minimum>
+		<bottle_size>750 ml</bottle_size>
+		<bottle_quantity>1</bottle_quantity>
+		<link>https://goodhope.fr/collections/mullineux-family-wines/products/mullineux-kloof-street-chenin-blanc-2020</link>
+		<inventory-count>59</inventory-count>
+		<product-id>2021-01-007</product-id>
+	</product>
+	<product>
+		<product-name>Mullineux Leeu Passant Chardonnay 2018</product-name>
+		<price>65</price>
+		<quantity-is-minimum>false</quantity-is-minimum>
+		<bottle_size>750 ml</bottle_size>
+		<bottle_quantity>1</bottle_quantity>
+		<link>https://goodhope.fr/collections/leeu-passant/products/leeu-passant-chardonnay-2018</link>
+		<inventory-count>23</inventory-count>
+		<product-id>2021-01-008</product-id>
+	</product>
+	<product>
+		<product-name>Mullineux Leeu Passant Old Vines Basson Cinsault 2017</product-name>
+		<price>65</price>
+		<quantity-is-minimum>false</quantity-is-minimum>
+		<bottle_size>750 ml</bottle_size>
+		<bottle_quantity>1</bottle_quantity>
+		<link>https://goodhope.fr/collections/leeu-passant/products/leeu-passant-old-vines-basson-cinsault-2017</link>
+		<inventory-count>6</inventory-count>
+		<product-id>2021-01-009</product-id>
+	</product>
+	<product>
+		<product-name>Mullineux Leeu Passant Cabernet Sauvignon 2018</product-name>
+		<price>36</price>
+		<quantity-is-minimum>false</quantity-is-minimum>
+		<bottle_size>750 ml</bottle_size>
+		<bottle_quantity>1</bottle_quantity>
+		<link>https://goodhope.fr/collections/leeu-passant/products/leeu-passant-cabernet-sauvignon-2018</link>
+		<inventory-count>27</inventory-count>
+		<product-id>2021-01-010</product-id>
+	</product>
+	<product>
+		<product-name>Thorne &amp; Daughters Cat's Cradle Chenin Blanc 2019</product-name>
+		<price>34</price>
+		<quantity-is-minimum>false</quantity-is-minimum>
+		<bottle_size>750 ml</bottle_size>
+		<bottle_quantity>1</bottle_quantity>
+		<link>https://goodhope.fr/collections/thorne-daughters/products/thorne-daughters-cats-cradle-2019</link>
+		<inventory-count>18</inventory-count>
+		<product-id>2021-02-001</product-id>
+	</product>
+	<product>
+		<product-name>Thorne &amp; Daughters Tin Soldier Sémillon 2019</product-name>
+		<price>34</price>
+		<quantity-is-minimum>false</quantity-is-minimum>
+		<bottle_size>750 ml</bottle_size>
+		<bottle_quantity>1</bottle_quantity>
+		<link>https://goodhope.fr/collections/thorne-daughters/products/thorne-daughters-tin-soldier-2019</link>
+		<inventory-count>18</inventory-count>
+		<product-id>2021-02-002</product-id>
+	</product>
+	<product>
+		<product-name>Thorne &amp; Daughters Paper Kite Old Vine Sémillon 2019</product-name>
+		<price>39</price>
+		<quantity-is-minimum>false</quantity-is-minimum>
+		<bottle_size>750 ml</bottle_size>
+		<bottle_quantity>1</bottle_quantity>
+		<link>https://goodhope.fr/collections/thorne-daughters/products/thorne-daughters-paper-kite-2019</link>
+		<inventory-count>18</inventory-count>
+		<product-id>2021-02-003</product-id>
+	</product>
+	<product>
+		<product-name>Thorne &amp; Daughters Wanderer's Heart 2019</product-name>
+		<price>29</price>
+		<quantity-is-minimum>false</quantity-is-minimum>
+		<bottle_size>750 ml</bottle_size>
+		<bottle_quantity>1</bottle_quantity>
+		<link>https://goodhope.fr/collections/thorne-daughters/products/thorne-daughters-wanderers-heart-2019</link>
+		<inventory-count>30</inventory-count>
+		<product-id>2021-02-004</product-id>
+	</product>
+	<product>
+		<product-name>Thorne &amp; Daughters Snakes &amp; Ladders Sauvignon Blanc 2019</product-name>
+		<price>39</price>
+		<quantity-is-minimum>false</quantity-is-minimum>
+		<bottle_size>750 ml</bottle_size>
+		<bottle_quantity>1</bottle_quantity>
+		<link>https://goodhope.fr/collections/thorne-daughters/products/thorne-daughters-snakes-ladders-2019</link>
+		<inventory-count>24</inventory-count>
+		<product-id>2021-02-005</product-id>
+	</product>
+	<product>
+		<product-name>Thorne &amp; Daughters Rocking Horse Cape White 2019</product-name>
+		<price>29</price>
+		<quantity-is-minimum>false</quantity-is-minimum>
+		<bottle_size>750 ml</bottle_size>
+		<bottle_quantity>1</bottle_quantity>
+		<link>https://goodhope.fr/collections/thorne-daughters/products/thorne-daughters-rocking-horse-2019</link>
+		<inventory-count>42</inventory-count>
+		<product-id>2021-02-006</product-id>
+	</product>
+	<product>
+		<product-name>Badenhorst Dassiekop Steen 2019</product-name>
+		<price>48</price>
+		<quantity-is-minimum>false</quantity-is-minimum>
+		<bottle_size>750 ml</bottle_size>
+		<bottle_quantity>1</bottle_quantity>
+		<link>https://goodhope.fr/collections/aa-badenhorst-family-wines/products/aa-badenhorst-dassiekop-chenin-blanc-2019</link>
+		<inventory-count>6</inventory-count>
+		<product-id>2021-03-001</product-id>
+	</product>
+	<product>
+		<product-name>Badenhorst The Golden Slopes Chenin Blanc 2019</product-name>
+		<price>48</price>
+		<quantity-is-minimum>false</quantity-is-minimum>
+		<bottle_size>750 ml</bottle_size>
+		<bottle_quantity>1</bottle_quantity>
+		<link>https://goodhope.fr/collections/aa-badenhorst-family-wines/products/aa-badenhorst-golden-slopes-chenin-blanc-2019</link>
+		<inventory-count>6</inventory-count>
+		<product-id>2021-03-002</product-id>
+	</product>
+	<product>
+		<product-name>Badenhorst Ringmuur Cinsault 2019</product-name>
+		<price>48</price>
+		<quantity-is-minimum>false</quantity-is-minimum>
+		<bottle_size>750 ml</bottle_size>
+		<bottle_quantity>1</bottle_quantity>
+		<link>https://goodhope.fr/collections/aa-badenhorst-family-wines/products/aa-badenhorst-ringmuur-cinsault-2019</link>
+		<inventory-count>6</inventory-count>
+		<product-id>2021-03-003</product-id>
+	</product>
+	<product>
+		<product-name>Badenhorst Raaigras Grenache 2019</product-name>
+		<price>48</price>
+		<quantity-is-minimum>false</quantity-is-minimum>
+		<bottle_size>750 ml</bottle_size>
+		<bottle_quantity>1</bottle_quantity>
+		<link>https://goodhope.fr/collections/aa-badenhorst-family-wines/products/aa-badenhorst-raaigras-grenache-2019</link>
+		<inventory-count>6</inventory-count>
+		<product-id>2021-03-004</product-id>
+	</product>
+	<product>
+		<product-name>Badenhorst Cinsault Ramnasgras 2019</product-name>
+		<price>48</price>
+		<quantity-is-minimum>false</quantity-is-minimum>
+		<bottle_size>750 ml</bottle_size>
+		<bottle_quantity>1</bottle_quantity>
+		<link>https://goodhope.fr/collections/aa-badenhorst-family-wines/products/aa-badenhorst-ramnasgas-cinsault-2019</link>
+		<inventory-count>6</inventory-count>
+		<product-id>2021-03-005</product-id>
+	</product>
+	<product>
+		<product-name>Badenhorst Red Blend 2018</product-name>
+		<price>32</price>
+		<quantity-is-minimum>false</quantity-is-minimum>
+		<bottle_size>750 ml</bottle_size>
+		<bottle_quantity>1</bottle_quantity>
+		<link>https://goodhope.fr/collections/aa-badenhorst-family-wines/products/aa-badenhorst-family-red-2018</link>
+		<inventory-count>49</inventory-count>
+		<product-id>2021-03-006</product-id>
+	</product>
+	<product>
+		<product-name>Badenhorst White Blend 2018</product-name>
+		<price>32</price>
+		<quantity-is-minimum>false</quantity-is-minimum>
+		<bottle_size>750 ml</bottle_size>
+		<bottle_quantity>1</bottle_quantity>
+		<link>https://goodhope.fr/collections/aa-badenhorst-family-wines/products/aa-badenhorst-family-white-2018</link>
+		<inventory-count>30</inventory-count>
+		<product-id>2021-03-007</product-id>
+	</product>
+	<product>
+		<product-name>Badenhorst Secateurs Red Blend 2019</product-name>
+		<price>14</price>
+		<quantity-is-minimum>false</quantity-is-minimum>
+		<bottle_size>750 ml</bottle_size>
+		<bottle_quantity>1</bottle_quantity>
+		<link>https://goodhope.fr/collections/aa-badenhorst-family-wines/products/aa-badenhorst-secateurs-red-2019</link>
+		<inventory-count>120</inventory-count>
+		<product-id>2021-03-008</product-id>
+	</product>
+	<product>
+		<product-name>Badenhorst Chenin Blanc Secateurs 2020</product-name>
+		<price>14</price>
+		<quantity-is-minimum>false</quantity-is-minimum>
+		<bottle_size>750 ml</bottle_size>
+		<bottle_quantity>1</bottle_quantity>
+		<link>https://goodhope.fr/collections/aa-badenhorst-family-wines/products/aa-badenhorst-secateurs-chenin-blanc-2020</link>
+		<inventory-count>30</inventory-count>
+		<product-id>2021-03-009</product-id>
+	</product>
+	<product>
+		<product-name>Restless River Le Luc 2019</product-name>
+		<price>49</price>
+		<quantity-is-minimum>false</quantity-is-minimum>
+		<bottle_size>750 ml</bottle_size>
+		<bottle_quantity>1</bottle_quantity>
+		<link>https://goodhope.fr/collections/restless-river/products/restless-river-le-luc-pinot-noir-2019</link>
+		<inventory-count>12</inventory-count>
+		<product-id>2021-04-001</product-id>
+	</product>
+	<product>
+		<product-name>Restless River Main Road &amp; Dignity Cabernet Sauvignon 2017</product-name>
+		<price>65</price>
+		<quantity-is-minimum>false</quantity-is-minimum>
+		<bottle_size>750 ml</bottle_size>
+		<bottle_quantity>1</bottle_quantity>
+		<link>https://goodhope.fr/collections/restless-river/products/restless-river-main-road-cabernet-sauvignon-2017</link>
+		<inventory-count>30</inventory-count>
+		<product-id>2021-04-002</product-id>
+	</product>
+	<product>
+		<product-name>Restless River Ava Marie 2018</product-name>
+		<price>49</price>
+		<quantity-is-minimum>false</quantity-is-minimum>
+		<bottle_size>750 ml</bottle_size>
+		<bottle_quantity>1</bottle_quantity>
+		<link>https://goodhope.fr/collections/restless-river/products/restless-river-ava-marie-chardonnay-2018</link>
+		<inventory-count>30</inventory-count>
+		<product-id>2021-04-003</product-id>
+	</product>
+	<product>
+		<product-name>Crystallum Peter Max Pinot Noir 2020</product-name>
+		<price>29</price>
+		<quantity-is-minimum>false</quantity-is-minimum>
+		<bottle_size>750 ml</bottle_size>
+		<bottle_quantity>1</bottle_quantity>
+		<link>https://goodhope.fr/collections/crystallum/products/crystallum-peter-max-pinot-noir-2020</link>
+		<inventory-count>29</inventory-count>
+		<product-id>2021-05-001</product-id>
+	</product>
+	<product>
+		<product-name>Crystallum The Agnes Chardonnay 2020</product-name>
+		<price>28</price>
+		<quantity-is-minimum>false</quantity-is-minimum>
+		<bottle_size>750 ml</bottle_size>
+		<bottle_quantity>1</bottle_quantity>
+		<link>https://goodhope.fr/collections/crystallum/products/crystallum-agnes-chardonnay-2020</link>
+		<inventory-count>120</inventory-count>
+		<product-id>2021-05-002</product-id>
+	</product>
+	<product>
+		<product-name>Fram Chenin Blanc 2019</product-name>
+		<price>27</price>
+		<quantity-is-minimum>false</quantity-is-minimum>
+		<bottle_size>750 ml</bottle_size>
+		<bottle_quantity>1</bottle_quantity>
+		<link>https://goodhope.fr/collections/fram/products/fram-chenin-blanc-2019</link>
+		<inventory-count>60</inventory-count>
+		<product-id>2021-06-001</product-id>
+	</product>
+	<product>
+		<product-name>Fram Pinotage 2016</product-name>
+		<price>24</price>
+		<quantity-is-minimum>false</quantity-is-minimum>
+		<bottle_size>750 ml</bottle_size>
+		<bottle_quantity>1</bottle_quantity>
+		<link>https://goodhope.fr/collections/fram/products/fram-pinotage-2016</link>
+		<inventory-count>24</inventory-count>
+		<product-id>2021-06-002</product-id>
+	</product>
+	<product>
+		<product-name>Fram Grenache Gris 2020</product-name>
+		<price>18</price>
+		<quantity-is-minimum>false</quantity-is-minimum>
+		<bottle_size>750 ml</bottle_size>
+		<bottle_quantity>1</bottle_quantity>
+		<link>https://goodhope.fr/collections/fram/products/fram-grenache-gris-2020</link>
+		<inventory-count>30</inventory-count>
+		<product-id>2021-06-003</product-id>
+	</product>
+	<product>
+		<product-name>Fram Shiraz 2019</product-name>
+		<price>14</price>
+		<quantity-is-minimum>false</quantity-is-minimum>
+		<bottle_size>750 ml</bottle_size>
+		<bottle_quantity>1</bottle_quantity>
+		<link>https://goodhope.fr/collections/fram/products/fram-shiraz-2019</link>
+		<inventory-count>120</inventory-count>
+		<product-id>2021-06-004</product-id>
+	</product>
+	<product>
+		<product-name>Fram Chardonnay 2020</product-name>
+		<price>13</price>
+		<quantity-is-minimum>false</quantity-is-minimum>
+		<bottle_size>750 ml</bottle_size>
+		<bottle_quantity>1</bottle_quantity>
+		<link>https://goodhope.fr/collections/fram/products/fram-chardonnay-2020</link>
+		<inventory-count>120</inventory-count>
+		<product-id>2021-06-005</product-id>
+	</product>
+	<product>
+		<product-name>Mother Rock Force Celeste Chenin Blanc 2020</product-name>
+		<price>17</price>
+		<quantity-is-minimum>false</quantity-is-minimum>
+		<bottle_size>750 ml</bottle_size>
+		<bottle_quantity>1</bottle_quantity>
+		<link>https://goodhope.fr/collections/jh-meyer-mother-rock/products/mother-rock-force-celeste-chenin-blanc-2020</link>
+		<inventory-count>60</inventory-count>
+		<product-id>2021-07-001</product-id>
+	</product>
+	<product>
+		<product-name>JH Meyer Palmiet White 2019</product-name>
+		<price>26</price>
+		<quantity-is-minimum>false</quantity-is-minimum>
+		<bottle_size>750 ml</bottle_size>
+		<bottle_quantity>1</bottle_quantity>
+		<link>https://goodhope.fr/collections/jh-meyer-mother-rock/products/jh-meyer-palmiet-chardonnay-2019</link>
+		<inventory-count>30</inventory-count>
+		<product-id>2021-07-002</product-id>
+	</product>
+	<product>
+		<product-name>Porseleinberg Red 2017</product-name>
+		<price>95</price>
+		<quantity-is-minimum>false</quantity-is-minimum>
+		<bottle_size>750 ml</bottle_size>
+		<bottle_quantity>1</bottle_quantity>
+		<link>https://goodhope.fr/collections/porseleinberg/products/porseleinberg-syrah-2017</link>
+		<inventory-count>6</inventory-count>
+		<product-id>2021-08-001</product-id>
+	</product>
+	<product>
+		<product-name>Klein Constantia Vin de Constance (Natural Sweet) 2017</product-name>
+		<price>65</price>
+		<quantity-is-minimum>false</quantity-is-minimum>
+		<bottle_size>500 ml</bottle_size>
+		<bottle_quantity>1</bottle_quantity>
+		<link>https://goodhope.fr/collections/klein-constantia/products/klein-constantia-vin-de-constance-2017</link>
+		<inventory-count>12</inventory-count>
+		<product-id>2021-09-001</product-id>
+	</product>
+	<product>
+		<product-name>Alheit Vineyards Cartology (Bush Vines) 2019</product-name>
+		<price>39</price>
+		<quantity-is-minimum>false</quantity-is-minimum>
+		<bottle_size>750 ml</bottle_size>
+		<bottle_quantity>1</bottle_quantity>
+		<link>https://goodhope.fr/collections/alheit-vineyards/products/alheit-vineyards-cartology-2019</link>
+		<inventory-count>30</inventory-count>
+		<product-id>2021-10-001</product-id>
+	</product>
+	<product>
+		<product-name>False Bay Slow Chenin Blanc 2020</product-name>
+		<price>10</price>
+		<quantity-is-minimum>false</quantity-is-minimum>
+		<bottle_size>750 ml</bottle_size>
+		<bottle_quantity>1</bottle_quantity>
+		<link>https://goodhope.fr/collections/false-bay/products/false-bay-slow-chenin-blanc-2020</link>
+		<inventory-count>60</inventory-count>
+		<product-id>2021-11-001</product-id>
+	</product>
+	<product>
+		<product-name>MAN Pinotage (Bosstok) 2019</product-name>
+		<price>10</price>
+		<quantity-is-minimum>false</quantity-is-minimum>
+		<bottle_size>750 ml</bottle_size>
+		<bottle_quantity>1</bottle_quantity>
+		<link>https://goodhope.fr/collections/man-family/products/man-family-wines-bosstok-pinotage-2019</link>
+		<inventory-count>24</inventory-count>
+		<product-id>2021-12-001</product-id>
+	</product>
+	<product>
+		<product-name>Brookdale Estate Mason Road Chenin Blanc 2019</product-name>
+		<price>14</price>
+		<quantity-is-minimum>false</quantity-is-minimum>
+		<bottle_size>750 ml</bottle_size>
+		<bottle_quantity>1</bottle_quantity>
+		<link>https://goodhope.fr/collections/brookdale-estate/products/brookdale-mason-road-chenin-blanc-2019</link>
+		<inventory-count>18</inventory-count>
+		<product-id>2021-13-01</product-id>
+	</product>
+	<product>
+		<product-name>Reyneke Organic Shiraz - Cabernet Sauvignon 2019</product-name>
+		<price>14</price>
+		<quantity-is-minimum>false</quantity-is-minimum>
+		<bottle_size>750 ml</bottle_size>
+		<bottle_quantity>1</bottle_quantity>
+		<link>https://goodhope.fr/collections/reyneke/products/reyneke-organic-shiraz-cabernet-sauvignon-2019</link>
+		<inventory-count>36</inventory-count>
+		<product-id>2021-14-01</product-id>
+	</product>
+	<product>
+		<product-name>Vincent Careme Terre Brûlée 'Le Blanc' 2019</product-name>
+		<price>14</price>
+		<quantity-is-minimum>false</quantity-is-minimum>
+		<bottle_size>750 ml</bottle_size>
+		<bottle_quantity>1</bottle_quantity>
+		<link>https://goodhope.fr/collections/terre-brulee/products/terre-brulee-le-blanc-2019</link>
+		<inventory-count>24</inventory-count>
+		<product-id>2021-15-01</product-id>
+	</product>
+	<product>
+		<product-name>Vincent Careme Terre Brûlée 'Le Rouge' 2019</product-name>
+		<price>14</price>
+		<quantity-is-minimum>false</quantity-is-minimum>
+		<bottle_size>750 ml</bottle_size>
+		<bottle_quantity>1</bottle_quantity>
+		<link>https://goodhope.fr/collections/terre-brulee/products/terre-brulee-le-rouge-2019</link>
+		<inventory-count>24</inventory-count>
+		<product-id>2021-15-02</product-id>
+	</product>
+	<product>
+		<product-name>Beaumont Chenin Blanc 2019</product-name>
+		<price>16</price>
+		<quantity-is-minimum>false</quantity-is-minimum>
+		<bottle_size>750 ml</bottle_size>
+		<bottle_quantity>1</bottle_quantity>
+		<link>https://goodhope.fr/collections/beaumont-family-wines/products/beaumont-family-chenin-blanc-2019</link>
+		<inventory-count>18</inventory-count>
+		<product-id>2021-16-01</product-id>
+	</product>
+	<product>
+		<product-name>Vondeling Wines Babiana 2018</product-name>
+		<price>17</price>
+		<quantity-is-minimum>false</quantity-is-minimum>
+		<bottle_size>750 ml</bottle_size>
+		<bottle_quantity>1</bottle_quantity>
+		<link>https://goodhope.fr/collections/vondeling/products/vondeling-babiana-2018</link>
+		<inventory-count>18</inventory-count>
+		<product-id>2021-17-01</product-id>
+	</product>
+	<product>
+		<product-name>Carinus Chenin Blanc 2019</product-name>
+		<price>18</price>
+		<quantity-is-minimum>false</quantity-is-minimum>
+		<bottle_size>750 ml</bottle_size>
+		<bottle_quantity>1</bottle_quantity>
+		<link>https://goodhope.fr/collections/carinus/products/carinus-chenin-blanc-2019</link>
+		<inventory-count>18</inventory-count>
+		<product-id>2021-18-01</product-id>
+	</product>
+	<product>
+		<product-name>Carinus Syrah 2019</product-name>
+		<price>18</price>
+		<quantity-is-minimum>false</quantity-is-minimum>
+		<bottle_size>750 ml</bottle_size>
+		<bottle_quantity>1</bottle_quantity>
+		<link>https://goodhope.fr/collections/carinus/products/carinus-syrah-2019</link>
+		<inventory-count>18</inventory-count>
+		<product-id>2021-18-02</product-id>
+	</product>
+	<product>
+		<product-name>Natte Valleij Western Cape Cinsault 2019</product-name>
+		<price>18</price>
+		<quantity-is-minimum>false</quantity-is-minimum>
+		<bottle_size>750 ml</bottle_size>
+		<bottle_quantity>1</bottle_quantity>
+		<link>https://goodhope.fr/collections/natte-valleij/products/natte-valleij-cinsault-2019</link>
+		<inventory-count>23</inventory-count>
+		<product-id>2021-19-01</product-id>
+	</product>
+	<product>
+		<product-name>Miles Mossop Wines The Introduction Red 2019</product-name>
+		<price>18</price>
+		<quantity-is-minimum>false</quantity-is-minimum>
+		<bottle_size>750 ml</bottle_size>
+		<bottle_quantity>1</bottle_quantity>
+		<link>https://goodhope.fr/collections/miles-mossop-wines/products/miles-mossop-the-introduction-red-2018</link>
+		<inventory-count>18</inventory-count>
+		<product-id>2021-20-01</product-id>
+	</product>
+	<product>
+		<product-name>Swerwer Chenin Blanc 2019</product-name>
+		<price>20</price>
+		<quantity-is-minimum>false</quantity-is-minimum>
+		<bottle_size>750 ml</bottle_size>
+		<bottle_quantity>1</bottle_quantity>
+		<link>https://goodhope.fr/collections/swerwer/products/swerwer-chenin-blanc-2019</link>
+		<inventory-count>12</inventory-count>
+		<product-id>2021-21-01</product-id>
+	</product>
+	<product>
+		<product-name>Swerwer Cinsault - Grenache - Tinta Barocca 2019</product-name>
+		<price>20</price>
+		<quantity-is-minimum>false</quantity-is-minimum>
+		<bottle_size>750 ml</bottle_size>
+		<bottle_quantity>1</bottle_quantity>
+		<link>https://goodhope.fr/collections/swerwer/products/swerwer-red-blend-2019</link>
+		<inventory-count>12</inventory-count>
+		<product-id>2021-21-02</product-id>
+	</product>
+	<product>
+		<product-name>Newton Johnson Southend Chardonnay 2019</product-name>
+		<price>20</price>
+		<quantity-is-minimum>false</quantity-is-minimum>
+		<bottle_size>750 ml</bottle_size>
+		<bottle_quantity>1</bottle_quantity>
+		<link>https://goodhope.fr/collections/newton-johnson/products/newton-johnson-southend-chardonnay-2019</link>
+		<inventory-count>18</inventory-count>
+		<product-id>2021-22-01</product-id>
+	</product>
+	<product>
+		<product-name>Sadie Family Treinspoor (Die Ouwingerdreeks) 2019</product-name>
+		<price>47</price>
+		<quantity-is-minimum>false</quantity-is-minimum>
+		<bottle_size>750 ml</bottle_size>
+		<bottle_quantity>1</bottle_quantity>
+		<link>https://goodhope.fr/collections/sadie-family/products/sadie-family-treinspoor-2019</link>
+		<inventory-count>6</inventory-count>
+		<product-id>2021-23-01</product-id>
+	</product>
+	<product>
+		<product-name>Sadie Family Skerpioen (Die Ouwingerdreeks) 2019</product-name>
+		<price>47</price>
+		<quantity-is-minimum>false</quantity-is-minimum>
+		<bottle_size>750 ml</bottle_size>
+		<bottle_quantity>1</bottle_quantity>
+		<link>https://goodhope.fr/collections/sadie-family/products/sadie-family-skerpioen-2019</link>
+		<inventory-count>3</inventory-count>
+		<product-id>2021-23-02</product-id>
+	</product>
+	<product>
+		<product-name>Sadie Family Pofadder (Die Ouwingerdreeks) 2019</product-name>
+		<price>47</price>
+		<quantity-is-minimum>false</quantity-is-minimum>
+		<bottle_size>750 ml</bottle_size>
+		<bottle_quantity>1</bottle_quantity>
+		<link>https://goodhope.fr/collections/sadie-family/products/sadie-family-pofadder-2019</link>
+		<inventory-count>3</inventory-count>
+		<product-id>2021-23-03</product-id>
+	</product>
+	<product>
+		<product-name>Sadie Family Palladius 2017</product-name>
+		<price>89</price>
+		<quantity-is-minimum>false</quantity-is-minimum>
+		<bottle_size>750 ml</bottle_size>
+		<bottle_quantity>1</bottle_quantity>
+		<link>https://goodhope.fr/collections/sadie-family/products/sadie-family-palladius-2017</link>
+		<inventory-count>3</inventory-count>
+		<product-id>2021-23-04</product-id>
+	</product>
+	<product>
+		<product-name>Sadie Family Columella 2018</product-name>
+		<price>115</price>
+		<quantity-is-minimum>false</quantity-is-minimum>
+		<bottle_size>750 ml</bottle_size>
+		<bottle_quantity>1</bottle_quantity>
+		<link>https://goodhope.fr/collections/sadie-family/products/sadie-family-columella-2018</link>
+		<inventory-count>1</inventory-count>
+		<product-id>2021-23-05</product-id>
+	</product>
+	<product>
+		<product-name>Newton Johnson Walker Bay Pinot Noir 2019</product-name>
+		<price>22</price>
+		<quantity-is-minimum>false</quantity-is-minimum>
+		<bottle_size>750 ml</bottle_size>
+		<bottle_quantity>1</bottle_quantity>
+		<link>https://goodhope.fr/collections/newton-johnson/products/newton-johnson-walker-bay-pinot-noir-2019</link>
+		<inventory-count>12</inventory-count>
+		<product-id>2021-22-02</product-id>
+	</product>
+	<product>
+		<product-name>Newton Johnson Family Vineyards Chardonnay 2019</product-name>
+		<price>29</price>
+		<quantity-is-minimum>false</quantity-is-minimum>
+		<bottle_size>750 ml</bottle_size>
+		<bottle_quantity>1</bottle_quantity>
+		<link>https://goodhope.fr/collections/newton-johnson/products/newton-johnson-family-vineyards-chardonnay-2018</link>
+		<inventory-count>6</inventory-count>
+		<product-id>2021-22-03</product-id>
+	</product>
+	<product>
+		<product-name>Colmant Brut Reserve N.V.</product-name>
+		<price>24</price>
+		<quantity-is-minimum>false</quantity-is-minimum>
+		<bottle_size>750 ml</bottle_size>
+		<bottle_quantity>1</bottle_quantity>
+		<link>https://goodhope.fr/collections/colmant/products/colmant-brut-reserve</link>
+		<inventory-count>15</inventory-count>
+		<product-id>2021-24-01</product-id>
+	</product>
+	<product>
+		<product-name>Sadie Family Mev Kirsten (Die Ouwingerdreeks) 2019</product-name>
+		<price>125</price>
+		<quantity-is-minimum>false</quantity-is-minimum>
+		<bottle_size>750 ml</bottle_size>
+		<bottle_quantity>1</bottle_quantity>
+		<link>https://goodhope.fr/collections/sadie-family/products/sadie-family-mev-kirsten-2019</link>
+		<inventory-count>3</inventory-count>
+		<product-id>2021-23-06</product-id>
+	</product>
+	<product>
+		<product-name>Boekenhoutskloof The Chocolate Block 2019</product-name>
+		<price>27</price>
+		<quantity-is-minimum>false</quantity-is-minimum>
+		<bottle_size>750 ml</bottle_size>
+		<bottle_quantity>1</bottle_quantity>
+		<link>https://goodhope.fr/collections/boekenhoutskloof/products/boekenhoutskloof-the-chocolate-block-2019</link>
+		<inventory-count>0</inventory-count>
+		<product-id>2021-25-01</product-id>
+	</product>
+	<product>
+		<product-name>Miles Mossop Wines Saskia 2017</product-name>
+		<price>28</price>
+		<quantity-is-minimum>false</quantity-is-minimum>
+		<bottle_size>750 ml</bottle_size>
+		<bottle_quantity>1</bottle_quantity>
+		<link>https://goodhope.fr/collections/miles-mossop-wines/products/miles-mossop-saskia-2017</link>
+		<inventory-count>12</inventory-count>
+		<product-id>2021-20-02</product-id>
+	</product>
+	<product>
+		<product-name>Miles Mossop Wines Kika 2017</product-name>
+		<price>29</price>
+		<quantity-is-minimum>false</quantity-is-minimum>
+		<bottle_size>375 ml</bottle_size>
+		<bottle_quantity>1</bottle_quantity>
+		<link>https://goodhope.fr/collections/miles-mossop-wines/products/miles-mossop-kika-2017</link>
+		<inventory-count>12</inventory-count>
+		<product-id>2021-20-03</product-id>
+	</product>
+</vivino-product-list>
